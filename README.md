@@ -2,5 +2,4 @@
 
 Jenkins with maven to build java applications.
 
-**To build run** 
-docker build -t jenkins-maven .
+**To build run** *docker build -t jenkins-maven .*
